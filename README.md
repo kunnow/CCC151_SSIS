@@ -7,4 +7,6 @@ folder "keilah" is the file path of the resources
 
 Ps. I just noticed this earlier. I accidentally copied and pasted my two QLineEdits in "Add a Course" and forgot to remove them. So basically, there's a QLineEdit behind a QLineEdit. The reason why, my two QLineEdits are always empty even though I typed some data on it. But do not fret, if I'm going to delete my two QLineEdits (which is an easy process), my "Add a Course" will be functional again, as easily as that.
 
+Edited. The problem above, consider it done. I uploaded again a new folder 'SSIS_2' since I cannot directly edit the minor problem (UI) on VSCode because I'm using a QTCreator. I deleted the two QLineEdits in the 'mainwindow.ui'. With that, the problem was solved.
+
 Shir Keilah T. Connor
