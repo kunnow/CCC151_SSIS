@@ -447,7 +447,7 @@ QPushButton:hover {
      <string/>
     </property>
     <property name="placeholderText">
-     <string>e.g. 2001 - 0001</string>
+     <string>e.g. 2001-0001</string>
     </property>
    </widget>
    <widget class="QComboBox" name="gender">
